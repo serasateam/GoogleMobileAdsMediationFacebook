@@ -7,7 +7,7 @@ To integrate the FBAudienceNetwork SDK into your project using Swift Package Man
 1. Add it to the dependencies of your Package.swift:
 ```objc
     dependencies: [
-        .package(url: "https://github.com/serasateam/GoogleMobileAdsMediationFacebook", .exact("6.9.0"))
+        .package(url: "https://github.com/serasateam/GoogleMobileAdsMediationFacebook", .exact("6.9.0.1"))
     ]
 ```
 2. Enable the `-ObjC` flag in Xcode: select Build Settings, search for Other Linker Flags and add `-ObjC`.
